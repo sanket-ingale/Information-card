@@ -1,0 +1,23 @@
+info{
+    display: flex;
+    flex-direction: column;
+    padding: 0px 10px 0px 10px;
+}
+
+about, interests {
+    padding: 0px 10px 10px 10px;
+}
+
+about > h4, interests > h4{
+    color: rgb(73, 158, 255);
+}
+
+p {
+    padding: 0 5px 0 5px;
+    font-size: small;
+}
+
+ul{
+    padding: 0 5px 0 20px;
+    font-size: small;
+}

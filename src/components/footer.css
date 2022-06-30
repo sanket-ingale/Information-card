@@ -1,0 +1,14 @@
+footer{
+    background-color: #111;
+    height: 50px;
+    border-radius: 0 0 20px 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+footer img{
+    /* border: 1px solid red; */
+    width: 20px;
+    height: 20px;
+}
